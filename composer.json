@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-project1",
+    "description": "Description of project PhpProject1.",
+    "authors": [
+        {
+            "name": "Tarik Curto",
+            "email": "centro.tarik@live.com"
+        }
+    ],
+    "require": {
+        "league/plates": "3.3.0"
+    }
+}
