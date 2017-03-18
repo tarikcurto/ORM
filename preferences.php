@@ -2,7 +2,7 @@
 
 $db = [
     'host' => 'localhost',
-    'database' => 'banium',
+    'database' => 'test',
     'user' => 'root',
     'pass' => ''
 ];
